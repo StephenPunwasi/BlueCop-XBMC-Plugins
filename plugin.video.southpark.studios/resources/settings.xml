@@ -1,3 +1,0 @@
-<settings>
-   <setting id="bitrate" type="enum" lvalues="30005|30006|30007" label="30004" default="0"/>
-</settings>
